@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 55071,
       "digest": "sha256:1f82630a1fd7f05750455fe1df950221f218cb3f1ceb1d2214437f8c127f5cc3",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-11-14T21:20:50Z",
       "updated_at": "2026-11-14T21:20:50Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/dist-manifest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 17987,
       "digest": "sha256:4389bd786a09cd76fcc4c553b079dee86817eb2f5bca61b7999d90baf787ba6c",
-      "download_count": 8099,
+      "download_count": 9907,
       "created_at": "2026-11-14T21:20:50Z",
       "updated_at": "2026-11-14T21:20:50Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/packslip.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 610,
       "digest": "sha256:9d76f135705f64c7bc888aaf3d6607d17e5ed0828639b5bcf42e4444771eb214",
-      "download_count": 44,
+      "download_count": 50,
       "created_at": "2026-11-14T21:20:50Z",
       "updated_at": "2026-11-14T21:20:50Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/sha256.sum"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4181990,
       "digest": "sha256:00298c156e5a28042126a82ef53aa6a0c21a3262da2b72a1f50ffb158e8e60cc",
-      "download_count": 43,
+      "download_count": 46,
       "created_at": "2026-11-14T21:20:50Z",
       "updated_at": "2026-11-14T21:20:50Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/source.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:61fd663a26e64d5656f53365543d17ea9ddbc754f74c81bb2bdc85f1eaace1be",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-11-14T21:20:50Z",
       "updated_at": "2026-11-14T21:20:50Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/source.tar.gz.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6702380,
       "digest": "sha256:6945bc82e0513d0b974c99fb1d30de24e448697fd533ed6b3f442c66a1b3620c",
-      "download_count": 1169,
+      "download_count": 1443,
       "created_at": "2026-11-14T21:20:50Z",
       "updated_at": "2026-11-14T21:20:51Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-aarch64-apple-darwin.tar.xz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:1093c6f1b9fb09181743bc73455ddd49c00948123c5247b5cc80b9b630757bfa",
-      "download_count": 52,
+      "download_count": 68,
       "created_at": "2026-11-14T21:20:50Z",
       "updated_at": "2026-11-14T21:20:50Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-aarch64-apple-darwin.tar.xz.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 7503684,
       "digest": "sha256:b907f891bc051dcfc13fa479194e156b356f434a37103522ea1fe1b7ded899b5",
-      "download_count": 495,
+      "download_count": 572,
       "created_at": "2026-11-14T21:20:50Z",
       "updated_at": "2026-11-14T21:20:52Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-aarch64-unknown-linux-musl.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 111,
       "digest": "sha256:88e1fc89151a7e25893f866ffdfcff0bf2999ec7ef19eab32335f56136da9e5d",
-      "download_count": 56,
+      "download_count": 74,
       "created_at": "2026-11-14T21:20:50Z",
       "updated_at": "2026-11-14T21:20:51Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-aarch64-unknown-linux-musl.tar.xz.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 21360,
       "digest": "sha256:b6ffa95edf6c9728cd74e3376096383ec497fd4632ed116546f37dc1f5c38363",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-11-14T21:20:51Z",
       "updated_at": "2026-11-14T21:20:51Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-installer.ps1"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 53500,
       "digest": "sha256:738062736593526f1178c7a7d341d6bdf78a673faccd0e6fed8dffa47b670112",
-      "download_count": 407,
+      "download_count": 475,
       "created_at": "2026-11-14T21:20:51Z",
       "updated_at": "2026-11-14T21:20:51Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-installer.sh"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 7350672,
       "digest": "sha256:d9c87668baa1aad2b44d5bfb08074609c5e4a186a0948dfed6e65d6e6c5a7744",
-      "download_count": 191,
+      "download_count": 224,
       "created_at": "2026-11-14T21:20:51Z",
       "updated_at": "2026-11-14T21:20:51Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-apple-darwin.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:3e0d9dde95099d91a1590d9cfe38ccd340e646ca4771de8775ed82f9f099ae08",
-      "download_count": 24,
+      "download_count": 37,
       "created_at": "2026-11-14T21:20:51Z",
       "updated_at": "2026-11-14T21:20:51Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-apple-darwin.tar.xz.sha256"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 17724940,
       "digest": "sha256:224325f876b7e4f381255222e18130d8a7575e2c4284baaba4b233f9c56e35a8",
-      "download_count": 1027,
+      "download_count": 1124,
       "created_at": "2026-11-14T21:20:51Z",
       "updated_at": "2026-11-14T21:20:52Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:5fa8fdf1afd65bf5a17d9645258e55afeb1db51cee0b9c014f42253ef4a28f01",
-      "download_count": 50,
+      "download_count": 65,
       "created_at": "2026-11-14T21:20:51Z",
       "updated_at": "2026-11-14T21:20:52Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-pc-windows-msvc.zip.sha256"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 8418872,
       "digest": "sha256:d1e38cf36d8c14ef0682a6d6617f8a512b1a971feb3dfa437419d00136e19a3e",
-      "download_count": 8523,
+      "download_count": 9675,
       "created_at": "2026-11-14T21:20:52Z",
       "updated_at": "2026-11-14T21:20:52Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-unknown-linux-musl.tar.xz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:89ce63bd2182e0521beec419546a4a9ad2ebe6b7e9c65a278474aed91e078fb0",
-      "download_count": 2875,
+      "download_count": 2940,
       "created_at": "2026-11-14T21:20:52Z",
       "updated_at": "2026-11-14T21:20:52Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-unknown-linux-musl.tar.xz.sha256"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 2645,
       "digest": "sha256:fa2004fd4e5d5a71db90ffa16bae95789ee5c021a970355655e2dc6940ef9b37",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-14T21:20:52Z",
       "updated_at": "2026-11-14T21:20:52Z",
       "browser_download_url": "https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/wt.rb"
