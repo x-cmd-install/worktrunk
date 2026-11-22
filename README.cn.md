@@ -14,11 +14,11 @@ x install worktrunk
 
 ## 代码洞察
 
-合计: **226,417** 行代码（覆盖前 5 种语言、共 **333** 个文件）。
+合计: **226,546** 行代码（覆盖前 5 种语言、共 **333** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 202,662 | 20,468 | 25,394 | 299 |
+| Rust | 202,775 | 20,468 | 25,394 | 299 |
 | Json | 14,266 | 0 | 0 | 13 |
 | JavaScript | 3,145 | 76 | 215 | 13 |
 | Python | 2,751 | 289 | 414 | 6 |
@@ -32,51 +32,51 @@ x install worktrunk
 
 ## 发布
 
-- **最新版本**: `v0.82.0` (2026-11-14)
-- **最近提交**: 2026-11-21
+- **最新版本**: `v0.83.0` (2026-11-21)
+- **最近提交**: 2026-11-22
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 12,677 · **Fork**: 507 · **开放 issue**: 785 · **贡献者**: 94
+- **Star**: 12,691 · **Fork**: 510 · **开放 issue**: 787 · **贡献者**: 95
 
 ## 累计统计
 
-- **发布数**: 154 · **已合并 PR**: 3733 · **开放 PR**: 9 · **已关闭 issue**: 748 · **开放 issue**: 37 · **提交数**: 5619
+- **发布数**: 155 · **已合并 PR**: 3741 · **开放 PR**: 7 · **已关闭 issue**: 748 · **开放 issue**: 39 · **提交数**: 5627
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 188 | 6 | 70 | 12 | 201 |
-| last60d | 2026-09-22 | 3 | 444 | 7 | 116 | 16 | 446 |
-| 90d | 2026-08-23 | 8 | 705 | 7 | 181 | 19 | 714 |
-| last180d | 2026-05-25 | 31 | 1455 | 8 | 340 | 29 | 1460 |
-| 360d | 2025-11-26 | 100 | 3696 | 9 | 748 | 37 | 4530 |
-| last720d | 2024-12-01 | 100 | 3733 | 9 | 748 | 37 | 5619 |
+| 30d | 2026-10-23 | 2 | 191 | 4 | 68 | 14 | 175 |
+| last60d | 2026-09-23 | 4 | 444 | 5 | 112 | 18 | 390 |
+| 90d | 2026-08-24 | 9 | 702 | 5 | 179 | 21 | 661 |
+| last180d | 2026-05-26 | 32 | 1453 | 6 | 340 | 30 | 1435 |
+| 360d | 2025-11-27 | 100 | 3702 | 7 | 748 | 39 | 4320 |
+| last720d | 2024-12-02 | 100 | 3741 | 7 | 748 | 39 | 5627 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [dist-manifest.json](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/dist-manifest.json) | 53.8 KiB | `other` |
-| [packslip.sigstore.json](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/packslip.sigstore.json) | 17.6 KiB | `other` |
-| [sha256.sum](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/sha256.sum) | 610 B | `other` |
-| [source.tar.gz](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/source.tar.gz) | 4.0 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/source.tar.gz.sha256) | 81 B | `other` |
-| [worktrunk-aarch64-apple-darwin.tar.xz](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-aarch64-apple-darwin.tar.xz) | 6.4 MiB | `native/darwin/arm64` |
-| [worktrunk-aarch64-apple-darwin.tar.xz.sha256](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-aarch64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/arm64` |
-| [worktrunk-aarch64-unknown-linux-musl.tar.xz](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-aarch64-unknown-linux-musl.tar.xz) | 7.2 MiB | `native/linux/arm64/musl` |
-| [worktrunk-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-aarch64-unknown-linux-musl.tar.xz.sha256) | 111 B | `native/linux/arm64/musl` |
-| [worktrunk-installer.ps1](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-installer.ps1) | 20.9 KiB | `other` |
-| [worktrunk-installer.sh](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-installer.sh) | 52.2 KiB | `other` |
-| [worktrunk-x86_64-apple-darwin.tar.xz](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-apple-darwin.tar.xz) | 7.0 MiB | `native/darwin/x64` |
-| [worktrunk-x86_64-apple-darwin.tar.xz.sha256](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-apple-darwin.tar.xz.sha256) | 104 B | `native/darwin/x64` |
-| [worktrunk-x86_64-pc-windows-msvc.zip](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-pc-windows-msvc.zip) | 16.9 MiB | `native/win/x64` |
-| [worktrunk-x86_64-pc-windows-msvc.zip.sha256](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-pc-windows-msvc.zip.sha256) | 103 B | `native/win/x64` |
-| [worktrunk-x86_64-unknown-linux-musl.tar.xz](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-unknown-linux-musl.tar.xz) | 8.0 MiB | `native/linux/x64/musl` |
-| [worktrunk-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/worktrunk-x86_64-unknown-linux-musl.tar.xz.sha256) | 110 B | `native/linux/x64/musl` |
-| [wt.rb](https://github.com/max-sixty/worktrunk/releases/download/v0.82.0/wt.rb) | 2.6 KiB | `other` |
+| [dist-manifest.json](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/dist-manifest.json) | 46.1 KiB | `other` |
+| [packslip.sigstore.json](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/packslip.sigstore.json) | 17.2 KiB | `other` |
+| [sha256.sum](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/sha256.sum) | 610 B | `other` |
+| [source.tar.gz](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/source.tar.gz) | 4.0 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/source.tar.gz.sha256) | 81 B | `other` |
+| [worktrunk-aarch64-apple-darwin.tar.xz](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-aarch64-apple-darwin.tar.xz) | 6.4 MiB | `native/darwin/arm64` |
+| [worktrunk-aarch64-apple-darwin.tar.xz.sha256](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-aarch64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/arm64` |
+| [worktrunk-aarch64-unknown-linux-musl.tar.xz](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-aarch64-unknown-linux-musl.tar.xz) | 7.2 MiB | `native/linux/arm64/musl` |
+| [worktrunk-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-aarch64-unknown-linux-musl.tar.xz.sha256) | 111 B | `native/linux/arm64/musl` |
+| [worktrunk-installer.ps1](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-installer.ps1) | 20.9 KiB | `other` |
+| [worktrunk-installer.sh](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-installer.sh) | 52.2 KiB | `other` |
+| [worktrunk-x86_64-apple-darwin.tar.xz](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-x86_64-apple-darwin.tar.xz) | 7.0 MiB | `native/darwin/x64` |
+| [worktrunk-x86_64-apple-darwin.tar.xz.sha256](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-x86_64-apple-darwin.tar.xz.sha256) | 104 B | `native/darwin/x64` |
+| [worktrunk-x86_64-pc-windows-msvc.zip](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-x86_64-pc-windows-msvc.zip) | 17.0 MiB | `native/win/x64` |
+| [worktrunk-x86_64-pc-windows-msvc.zip.sha256](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-x86_64-pc-windows-msvc.zip.sha256) | 103 B | `native/win/x64` |
+| [worktrunk-x86_64-unknown-linux-musl.tar.xz](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-x86_64-unknown-linux-musl.tar.xz) | 8.1 MiB | `native/linux/x64/musl` |
+| [worktrunk-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/worktrunk-x86_64-unknown-linux-musl.tar.xz.sha256) | 110 B | `native/linux/x64/musl` |
+| [wt.rb](https://github.com/max-sixty/worktrunk/releases/download/v0.83.0/wt.rb) | 2.6 KiB | `other` |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ worktrunk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T08:34:32Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T08:09:30Z._
