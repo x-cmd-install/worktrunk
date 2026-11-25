@@ -14,11 +14,11 @@ x install worktrunk
 
 ## Code insight
 
-Total: **227,037** lines of code across **333** files in the top 5 languages.
+Total: **226,977** lines of code across **333** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 202,895 | 20,455 | 25,397 | 299 |
+| Rust | 202,835 | 20,451 | 25,393 | 299 |
 | Json | 14,637 | 0 | 0 | 13 |
 | JavaScript | 3,145 | 76 | 215 | 13 |
 | Python | 2,751 | 289 | 414 | 6 |
@@ -33,27 +33,27 @@ Total: **227,037** lines of code across **333** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.83.0` (2026-11-21)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 12,727 · **Forks**: 512 · **Open issues**: 790 · **Contributors**: 94
+- **Stars**: 12,739 · **Forks**: 514 · **Open issues**: 792 · **Contributors**: 94
 
 ## Totals (cumulative)
 
-- **Releases**: 155 · **Merged PRs**: 3759 · **Open PRs**: 13 · **Closed issues**: 754 · **Open issues**: 36 · **Commits**: 5646
+- **Releases**: 155 · **Merged PRs**: 3766 · **Open PRs**: 12 · **Closed issues**: 754 · **Open issues**: 38 · **Commits**: 5653
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 208 | 10 | 72 | 12 | 193 |
-| last60d | 2026-09-25 | 4 | 440 | 11 | 114 | 15 | 408 |
-| 90d | 2026-08-26 | 9 | 707 | 11 | 179 | 18 | 679 |
-| last180d | 2026-05-28 | 31 | 1460 | 12 | 343 | 27 | 1453 |
-| 360d | 2025-11-29 | 100 | 3711 | 13 | 754 | 36 | 4338 |
-| last720d | 2024-12-04 | 100 | 3759 | 13 | 754 | 36 | 5646 |
+| 30d | 2026-10-26 | 2 | 203 | 9 | 68 | 14 | 200 |
+| last60d | 2026-09-26 | 4 | 440 | 10 | 113 | 17 | 415 |
+| 90d | 2026-08-27 | 9 | 705 | 10 | 174 | 20 | 686 |
+| last180d | 2026-05-29 | 31 | 1461 | 11 | 341 | 29 | 1460 |
+| 360d | 2025-11-30 | 100 | 3716 | 12 | 754 | 38 | 4345 |
+| last720d | 2024-12-05 | 100 | 3766 | 12 | 754 | 38 | 5653 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for worktrunk lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:50:38Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:05:31Z._
